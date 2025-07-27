@@ -1,4 +1,4 @@
-package week2.day1;
+package week2.day1_Assignments;
 
 public class Library {
 	// create method name addBook
